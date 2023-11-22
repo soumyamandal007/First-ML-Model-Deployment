@@ -1,6 +1,6 @@
 # First-ML-Model-Deployment
 
-[![Express Logo](https://storage.googleapis.com/kaggle-datasets-images/19/19/default-backgrounds/dataset-card.jpg)](https://archive.ics.uci.edu/dataset/53/iris)
+[![Iris Logo](https://storage.googleapis.com/kaggle-datasets-images/19/19/default-backgrounds/dataset-card.jpg)](https://archive.ics.uci.edu/dataset/53/iris)
 
 This is my first ML model deployment using [Flask](https://flask.palletsprojects.com/en/3.0.x/).
 
